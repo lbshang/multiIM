@@ -1,5 +1,5 @@
 # multiIM
-消息应用软件集成登录器，whatsapp营销工具，whatsapp自动翻译
+消息应用软件集成登录器，whatsapp营销工具，whatsapp群发，whatsapp自动翻译
 
 演示地址：
 https://www.dd84.com
